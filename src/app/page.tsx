@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import FirstDisplay from "@/components/FirstDisplay";
 import AnonymousMessage from "@/components/AnonymousMessage";
 export default function Home() {
